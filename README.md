@@ -9,7 +9,7 @@ For e.g. <b>String greeting;</b>
 <br>You will find exercise in package: /java-gyk-day1/src/com/swedbank/javagyk/homework</br>
 <br><b>P.S. Keep the naming convention for variables! Use camelCase :)</b></br>
 
-#What you need to do :)
+# What you need to do :)
 <br>1. Create a a main method</br>
 <br>2. Create a String variable for your first name and assign value for it</br>
 <br>3. Create a String variable for your last name and assign value for it</br>
